@@ -1,0 +1,14 @@
+.box {
+  width: 200px;
+  /* height: 200px; */
+  border-radius: 30px;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  overflow: hidden;
+  /* bu komut tasmayi engeller(overflowhidden) */
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  /* 3. satirdan itibaren 3 nokta koyar sinirdan */
+}

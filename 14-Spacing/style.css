@@ -1,0 +1,15 @@
+h1 {
+  font-size: 70px;
+  /* letter-spacing: 2px;  karakterler arasindaki bosluk*/
+  word-spacing: 40px;
+  /* Kelimeler arasindaki bosluk vermemizi sagliyor */
+  /* text-align: right; */
+}
+
+p {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 30px;
+  /* line height her satir arasini acar p de yazdiklarimizi*/
+}

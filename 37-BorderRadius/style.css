@@ -1,0 +1,8 @@
+.box {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  border-radius: 0px 30px 30px 0px;
+  /* sol ust sag ust sag alt solt alt sirasiyla
+  yuvarlamak islemi yapmak */
+}

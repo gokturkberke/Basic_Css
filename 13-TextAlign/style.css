@@ -1,0 +1,11 @@
+h1 {
+  font-size: 70px;
+  /* text-align: right; */
+  /* text-align: center  komutu ortaya aynisinin righti de en saga alir*/ 
+}
+
+p {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 12px;
+}

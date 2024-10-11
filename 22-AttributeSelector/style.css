@@ -1,0 +1,11 @@
+input[type='text'] { 
+  border: 1px solid red;
+}
+/* type i text olani kirmizi yap demek  */
+input[type='number'] {
+  border: 1px solid blue;
+}
+/* ayni sekilde type i number olani blue */
+input[type='checkbox'] {
+  margin-right: 30px;
+}

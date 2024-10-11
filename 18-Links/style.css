@@ -1,0 +1,29 @@
+h2 {
+  text-transform: capitalize;
+}
+
+h1 {
+  /* text-decoration-line: line-through;
+  text-decoration-style: dotted;
+  text-decoration-color: red; */
+  text-decoration: line-through dotted red;
+}
+ul {
+  list-style-type: circle;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+  /* eger a daki kelimelere tiklayip o siteyi ziyaret edersek kirmizidan maviye dondurme komutu */
+}
+
+a:hover {
+  text-decoration: underline;
+  /* cursor: wait; */
+  /* uzerine geldigimizde a etiketinin uzerini cizmesini istedik */
+}

@@ -1,0 +1,36 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* yukari uclu sepetim butonunu ortaya almak oicin yaptik */
+  background-color: gray;
+}
+
+.box {
+  background-color: pink;
+  text-decoration: none;
+  /* alti cizili olmasini kaldirdik */
+  color: black;
+  padding: 15px 30px;
+  /* yukaridan asagidan 15 sagdan soldan 30 px acmak demek */
+  border-radius: 30px;
+  position: relative;
+  /* position relative yazmazsak bizim basketimiz bodyi gorur ve sayfanin en sag ustune gider */
+  border: 2px solid white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+/* box shadow css yazip googledan aldik shadowumuzu */
+
+.box .basket {
+  background-color: green;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  /* kenarlari tam circle yaptirir bize */
+  border: 2px solid white;
+  color: white;
+}

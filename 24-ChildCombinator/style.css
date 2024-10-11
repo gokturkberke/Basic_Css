@@ -1,0 +1,33 @@
+/* input[type='text'] {
+  border: 1px solid red;
+}
+input[type='number'] {
+  border: 1px solid blue;
+}
+input[type='checkbox'] {
+  margin-right: 30px;
+}
+
+h1,
+h2 {
+  color: aqua;
+} */
+/* h2 {
+  color: aqua;
+} */
+
+/* #summaryList,
+#summary,
+.title {
+  color: red;
+} */
+
+ul > span {
+  color: red;
+}
+/* ul komutunun icindeki span lari kirmizi yapar ama sirasiyla olmasi lazim ul icinde atiyorum ol icinde span olursa olmaz ama altta olurdu */
+
+ol li {
+  border: 1px solid red;
+}
+/* ol komutunun icindeki li lere yapiyo direkt > yani child komutunu kullanmazsak (sira onemli degil bunda) */

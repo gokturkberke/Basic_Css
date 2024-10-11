@@ -1,0 +1,14 @@
+div {
+  width: 150px;
+  height: 150px;
+  border: 1px solid red;
+  background-color: blue;
+  margin: 30px;
+  padding: 20px;
+}
+#title {
+  box-sizing: border-box;
+}
+/* box sizing komutu total width degerine paddingle birlikte kullanarak ayarlamayi saglar yani */
+/* 110 gibi bi deger ayarliyip 20 soldan 20 sagdan padding ile 150ye esitler */
+/* ondan kullanmadan once bu deger 20 150 20 den 190 civariydi kuculttu yani bi nevi */

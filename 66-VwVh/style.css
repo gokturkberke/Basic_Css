@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+}
+/* sayfamizi ortalamasi icin */
+/* height 100vh */
+/* width 100vw degerleri vermemiz lazim */
+/* sonrasiinda
+display flex
+justify content center(yatay icin)
+align items center  */

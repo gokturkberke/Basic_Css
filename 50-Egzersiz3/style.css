@@ -1,0 +1,17 @@
+.buttonDiv {
+  background-color: blue;
+  height: 100vh;
+  /* tum tarayicimizin yuksekligini kapsamasini istedigimiz icin bu kod */
+  width: 150px;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+.buttonDiv button {
+  position: absolute;
+  right: 0;
+}
+/* background-repeat no repeat komutunu eger yukledigimiz image */
+/* kucukse birden fazla doldurmak icin koyuyo otomatik onu iptal etmek icin kullaniyoruz */
+
+/* background image url ... da foto ekleme kodumuz */

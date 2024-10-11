@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  border: 1px solid red;
+  margin: 0;
+}
+/* margin 30px,0px,0px,0px mesela sadece yukaridan 30 px margin veririz */
+/* veya margin top:30px de diyebilirdik */
+a {
+  border: 1px solid blue;
+}
+/* siralama da content padding border ve margin olarak oluyo */
+/* margin baska elementlerle aramizdakidir  */

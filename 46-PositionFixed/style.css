@@ -1,0 +1,11 @@
+.title {
+  background-color: blue;
+  color: white;
+  position: fixed;
+  /* top: 0; */
+  left: 0;
+  width: 100%;
+  padding: 30px;
+  bottom: 0;
+}
+/* position fixedin amaci sayfada belli bi yer de uzerinde yaptigimiz islemin sabit kalmasi */
