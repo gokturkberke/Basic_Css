@@ -4,6 +4,7 @@
   border: 1px solid red;
   width: 100px;
   height: 100px;
+  /* display inline komutu genislik ve yukseklik komutunu dikkate almazken block alir */
 }
 .inlineBlock {
   display: inline-block;
@@ -14,6 +15,8 @@
 }
 .block {
   display: block;
+  /* display block da kendinden once ve sonra gelen elemanlarla ayni satiri paylasmazlar */
+  /* her block elementi yeni bi satirdan baslar */
   background-color: yellow;
   border: 1px solid red;
   width: 100px;
