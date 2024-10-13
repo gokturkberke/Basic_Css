@@ -10,5 +10,7 @@
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
-  /* 3. satirdan itibaren 3 nokta koyar sinirdan */
+  /* 3. satirdan itibaren 3 nokta koyar sinirdan
+  text overflow ellipsis uc nokta koyar
+  display webkit box tasan metni duzgun gostermeye yarar */
 }

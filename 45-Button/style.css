@@ -4,7 +4,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* yukari uclu sepetim butonunu ortaya almak oicin yaptik */
+  /* yukari uclu sepetim butonunu ortaya almak oicin yaptik 
+  justify content yatay align items center da dikey olarak ortaladi*/
   background-color: gray;
 }
 
